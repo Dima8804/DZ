@@ -1,0 +1,15 @@
+C:\Users\mdv88\Desktop\Task_2\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\mdv88\Desktop\Task_2\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\mdv88\Desktop\Task_2\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\mdv88\Desktop\Task_2\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\mdv88\Desktop\Task_2\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\mdv88\Desktop\Task_2\Demo\obj\Debug\net6.0\ref\Demo.dll
